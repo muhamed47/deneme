@@ -6,7 +6,7 @@ gg.setVisible(true)
 os.exit()
 end
 
-version = "1.39.0.f2239"
+version = "1.39.0.a2239"
 
 local v = gg.getTargetInfo()
 if v.versionName ~= version then
